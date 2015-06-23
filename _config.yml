@@ -1,0 +1,13 @@
+# Site settings
+exclude: [".gitignore", "README.md", "Gemfile", ".sass-cache"]
+title: ""
+# email: "faryabi@upenn.edu"
+# description: "Academic website of Prof. Robert Babak Faryabi"
+url: "https://faryabib.github.io" # GitHub
+baseurl: "" # GitHub
+# url: "http://www.med.upenn.edu"
+# baseurl: "/~faryabi"
+# twitter_username: "@bfariabi"
+# github_username: "faryabib"
+# Build settings
+markdown: kramdown
