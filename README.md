@@ -1,4 +1,4 @@
-# chmbrlnd.github.io
+# faryabib.github.io
 
 
 ## Installing [Jekyll](http://jekyllrb.com/)
@@ -26,12 +26,12 @@ To keep Jekyll up to date, it is important to issue the ```bundle update``` comm
 Running executables without ```bundle exec``` may work, however this is unreliable and is often the source of considerable pain.
 
 
-## Publishing on ECE Server
+## Publishing on university server Server
 
 Edit ```_config.yml``` and set target ```url``` and ```baseurl```.
 Build [Jekyll](http://jekyllrb.com/) with [Bundler](http://bundler.io/).
-Push on ECE server.
+Push on university server.
 
 ```
-scp -r * chmbrlnd@apollo.ece.tamu.edu:.public_html/
+scp -r * <UserName@universityServer:.public_html/>
 ```
