@@ -4,6 +4,7 @@ title: Research
 permalink: /research.html
 ---
 
+![Fragile site](assets/fragileSite.png "Fragile Site")
 
 Mammalian cells orchestrate thousands of replication events along their genome.
 Maintenance of genome integrity at the sites of DNA replication is a fundamental feature of proliferating cells and is essential for their survival and tissue homeostasis. Replication-mediated DNA damage triggers cascades of cellular responses known as DNA damage response (DDR). Wide array of endogenous factors and exogenous agents induce replication stress conditions. For the most part, DDR pathways counteract replicative stress and enable faithful replication of DNA during cell division. Nevertheless, Unfaithful repair of the replication-induced DNA double strand breaks, the most genotoxic form of replication-mediated DNA damage, can produce structural abnormalities that are reminiscent of those observed in cancers. Although the signaling cascades responding to replication-mediated breaks has been extensively studied, we know very little about the genome-wide footprints of various sources of replicative stress. 
