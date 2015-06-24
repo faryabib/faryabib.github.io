@@ -6,7 +6,7 @@ permalink: /positions.html
 
 Faryabi Lab is hiring exceptional postdoctoral fellows and graduate students with experience and interest in computational genomics and application of machine learning techniques in cancer genomics. 
 
-The Faryabi Lab is part of the [Center for Personalized Diagnostics](http://www.pennmedicine.org/personalized-diagnostics/), [Penn Institute of Biomedical informatics](http://upibi.org/), and [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/). There are ample opportunities for collaboration and scientific exchange with a large community of translational and basic science groups at the [University of Pennsylvania](http://www.upenn.edu/) and associated institutions such as the department of [Pathology at the Children's Hospital of Phildalphia](http://www.chop.edu/centers-programs/pathology-and-laboratory-medicine).
+The Faryabi Lab is part of the [Center for Personalized Diagnostics](http://www.pennmedicine.org/personalized-diagnostics/), [Penn Institute of Biomedical Informatics](http://upibi.org/), and [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/). There are ample opportunities for collaboration and scientific exchange with a large community of translational and basic science groups at the [University of Pennsylvania](http://www.upenn.edu/) and associated institutions such as the department of [Pathology at the Children's Hospital of Phildalphia](http://www.chop.edu/centers-programs/pathology-and-laboratory-medicine).
 
 Postdoctoral applicants in particular are encouraged to contact Dr. Faryabi directly to enquire about opportunities and existing projects.
 
