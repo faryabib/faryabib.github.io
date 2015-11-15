@@ -14,7 +14,7 @@ High-throughput measurement technologies have made it possible to gather systems
 
 <strong>News:<strong>
 
-Nov 12: Our proposal for Penn Epigenetics Pilot Grat was founded.
+Nov 12: Our proposal for Penn Epigenetics Pilot Grant was founded.
 
 Oct 15: We are welcoming Yeqiao Zhou to our lab.
 
