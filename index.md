@@ -13,6 +13,7 @@ High-throughput measurement technologies have made it possible to gather systems
 <strong><span style="background-color:rgba(239, 233, 185, 1)">[Faryabi Lab currently seeks application for exceptional postdoctoral fellows and rotation students.](positions.html)</span><strong>
 
 <strong>News:<strong>
+
 Nov 12: Our proposal for Penn Epigenetics Pilot Grat was founded.
 
 Oct 15: Yeqiao Zhou join our lab.
