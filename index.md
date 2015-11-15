@@ -16,7 +16,7 @@ High-throughput measurement technologies have made it possible to gather systems
 
 Nov 12: Our proposal for Penn Epigenetics Pilot Grat was founded.
 
-Oct 15: Yeqiao Zhou join our lab.
+Oct 15: We are welcoming Yeqiao Zhou to our lab.
 
 <!--<strong><span style="background-color:rgba(0, 0, 0, 0.0970588)">[Faryabi Lab currently seeks application from exceptional postdoctoral and graduate students.](/positions.html/)</span><strong>-->
 
