@@ -12,11 +12,13 @@ High-throughput measurement technologies have made it possible to gather systems
 
 <strong><span style="background-color:rgba(239, 233, 185, 1)">[Faryabi Lab currently seeks application for exceptional postdoctoral fellows and rotation students.](positions.html)</span><strong>
 
+<strong><span style="background-color:rgba(239, 233, 185, 1)">Our weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md) is an open venue for everything genomics. You could join us on Fridays at 5 pm in the BRB305).</span><strong>
+
 <strong>News:<strong>
 
 Nov 12: Our proposal for Penn Epigenetics Pilot Grant was funded.
 
-Oct 15: We are welcoming Yeqiao Zhou to our lab.
+May 01: We are welcoming Gregory Schwartz to our lab.
 
 <!--<strong><span style="background-color:rgba(0, 0, 0, 0.0970588)">[Faryabi Lab currently seeks application from exceptional postdoctoral and graduate students.](/positions.html/)</span><strong>-->
 
