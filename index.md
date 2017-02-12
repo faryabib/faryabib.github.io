@@ -1,25 +1,38 @@
 ---
 layout: page
-title: RobertFaryabi@UPENN 
+title: Faryabi Lab @ UPENN 
 permalink: /index.html
 ---
 
-![Prof. R. B. Faryabi](assets/photo.jpg)
+![enhancer in cancer](assets/T_vs_B_MYC.png)
 
-Dr. Robert Babak Faryabi is an Assistant Professor of [Pathology and Laboratory Medicine](http://pathology.med.upenn.edu/) and a member of the [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/). After a postdoctoral training with Dr. Andre Nussenzweig at the NIH [Laboratory of Genome Integrity](https://ccr.cancer.gov/Laboratory-of-Genome-Integrity), Dr. Faryabi joined the [Perelman School of Medicine](http://www.med.upenn.edu/) at the [University of Pennsylvania](http://www.upenn.edu/) in June of 2015. The focus of his lab is to explore the genome-wide signatures of replicative stress and the contributions of replication stress-induced genomic lesions to hematological malignancies.
+We are a computational biology lab with focus on cancer epigenomics. Our research spans the areas of cancer biology, computational biology and machine learning. The overarching goal of our lab is to explore how oncogenic cell signaling pathways dysregulate enhancers' landscape of a tumor and understant their function in cancer.
 
-High-throughput measurement technologies have made it possible to gather systems-level genomics, epigenomics, and functional genomics data on normal and perturbed cells. The goal of Faryabi Lab is to elucidate the role of DNA replication and DNA repair pathways in tumor initiation, evolution and adaptation and leverage this knowledge to develop more effective diagnostics, prognostics and therapeutics for human cancer. To acheive this goal, the lab employs a combined experimental-computational approach, and develop computational methods based on combinations of big data analytics, mathematical modeling and machine learning algorithms to integrate and interrogate high-dimensional experimental data sets.
+The lab is specifically interested in lymphoma and leukemia which are the cancers of hematopoietic system. Abnormalities at genetic and epigenetic levels may give rise to these malignancies. We use genomics to identify the genetic variations in these tumor types and further elucidate how these genetic events alter a tumor's epigenome using population and single-cell epigenomics techniques.
 
-<strong><span style="background-color:rgba(239, 233, 185, 1)">[Faryabi Lab currently seeks application for exceptional postdoctoral fellows and rotation students.](positions.html)</span><strong>
+<div class="warning">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.   
+</div>   
+   
+<br> 
+   Rotation students could use wet and/or dry approaches to investigate the impact of epigenetics heterogeneity in tumor biology. We investigate tumors both at population and single cell levels. Checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
 
-<strong><span style="background-color:rgba(239, 233, 185, 1)">Our weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md) is an open venue for everything genomics. You could join us on Fridays at 5 pm in the BRB305).</span><strong>
+<br> 
 
-<strong>News:<strong>
+----
+<div class="emph"> NEWS: </div>
 
-Nov 12: Our proposal for Penn Epigenetics Pilot Grant was funded.
++ After a year of research in the lab, Yeqiao Zhao was admitted to the GGR PhD program. Congratulations Yeqiao! 
 
-May 01: We are welcoming Gregory Schwartz to our lab.
++ Institute for Translational Medicine and Therapeutics [(ITMAT)](http://www.itmat.upenn.edu/) supported our proposal for single cell epigenomics study of Leukemia. 
 
-<!--<strong><span style="background-color:rgba(0, 0, 0, 0.0970588)">[Faryabi Lab currently seeks application from exceptional postdoctoral and graduate students.](/positions.html/)</span><strong>-->
++ The lab received the Cooper Scholar Fund from the [Abramson Cancer Center's](https://www.pennmedicine.org/cancer). 
 
++ Our Penn Epigenetics Pilot Grant was renewed till 2018. Thanks [The PENN Epigenetics Institute](https://hosting.med.upenn.edu/epigenetics/)! 
+
++ Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
+
+
+<br> 
+<br> 
+<strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we stablished a weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). It is an open venue for everything genomics. Join us on Fridays at 5 pm in the BRB305 to discuss computational biology and have a beer or two!).</span><strong>
 

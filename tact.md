@@ -4,6 +4,8 @@ title: Contacts
 permalink: /tact.html
 ---
 
+![UPENN](assets/UPennQuad006.jpg)
+
 We are located in the [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/) at the [Biomedical Research Building II/III](http://www.facilities.upenn.edu/maps?location_type=All&search=brb&glid=) on the campus of [the University of Pennsylvania](http://www.upenn.edu/).
 
 
