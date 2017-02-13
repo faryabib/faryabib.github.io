@@ -4,7 +4,7 @@ title: Faryabi Lab @ UPENN
 permalink: /index.html
 ---
 
-![enhancer in cancer](assets/T_vs_B_MYC.png)
+![enhancer in cancer](assets/T_vs_B_MYC.png){:height="90%" width="90%"} 
 
 We are a computational biology lab with focus on cancer epigenomics. Our research spans the areas of cancer biology, computational biology and machine learning. The overarching goal of our lab is to explore how oncogenic cell signaling pathways dysregulate enhancers' landscape of a tumor and understant their function in cancer.
 
