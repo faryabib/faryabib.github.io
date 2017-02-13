@@ -10,16 +10,12 @@ We are a computational biology lab with focus on cancer epigenomics. Our researc
 
 The lab is specifically interested in lymphoma and leukemia which are the cancers of hematopoietic system. Abnormalities at genetic and epigenetic levels may give rise to these malignancies. We use genomics to identify the genetic variations in these tumor types and further elucidate how these genetic events alter a tumor's epigenome using population and single-cell epigenomics techniques.
 
-<div class="warning">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.   
-</div>   
+<strong><span style="background-color:rgb(230, 230, 255)">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.</span><strong>   
    
-<br> 
-   Rotation students could use wet and/or dry approaches to investigate the impact of epigenetics heterogeneity in tumor biology. We investigate tumors both at population and single cell levels. Checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
-
-<br> 
+Rotation students could use wet and/or dry approaches to investigate the impact of epigenetics heterogeneity in tumor biology. We investigate tumors both at population and single cell levels. Checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
 
 ----
-<div class="emph"> NEWS: </div>
+<strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
 + After a year of research in the lab, Yeqiao Zhao was admitted to the GGR PhD program. Congratulations Yeqiao! 
 
@@ -31,8 +27,6 @@ The lab is specifically interested in lymphoma and leukemia which are the cancer
 
 + Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
 
-
-<br> 
 <br> 
 <strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we stablished a weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). It is an open venue for everything genomics. Join us on Fridays at 5 pm in the BRB305 to discuss computational biology and have a beer or two!).</span><strong>
 

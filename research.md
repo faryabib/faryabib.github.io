@@ -12,7 +12,7 @@ The projects in the lab are broadly categorized into the following topics:
 
 ----
 
-<div class="emph"> Understanding epigenetic dysregulation in cancer in response to aberrant Notch signaling </div>
+**Understanding epigenetic dysregulation in cancer in response to aberrant Notch signaling**
 
 ![Epegenetics in Cancer](assets/epigenetics.png){:height="290px" width="300px"} 
 
@@ -20,7 +20,7 @@ To create integrative map of tumor-specific epigenetic programs associated with 
 
 ----
 
-<div class="emph"> Mechanisms of drug resistant in cancer using single-cell epigenomics </div>
+**Mechanisms of drug resistant in cancer using single-cell epigenomics**
 
 ![Singel Cell Epegenetics in Cancer](assets/singleCell.jpg){:height="290px" width="300px"} 
 
@@ -28,7 +28,7 @@ To advance the development of novel multi-therapeutic strategies for acute lymph
 
 ----
 
-<div class="emph"> Medical decision making algorithm in AML </div>
+**Medical decision making algorithm in AML**
 
 ![FLT3 in AML](assets/precision.png){:height="290px" width="300px"} 
 
