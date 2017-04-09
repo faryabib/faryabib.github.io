@@ -4,7 +4,7 @@ title: Positions
 permalink: /positions.html
 ---
 
-The lab has open positions for graduate students and postdocs who are interesting in solving fun and challenging questions in cancer epigenomics using combinaton of experimental and computational approach. 
+The lab has open positions for graduate students and postdocs who are interested in solving fun and challenging questions in cancer epigenomics using combinaton of experimental and computational approach. 
 
 We are part of the [Center for Personalized Diagnostics](http://www.pennmedicine.org/personalized-diagnostics/), [Penn Institute of Biomedical Informatics](http://upibi.org/), and [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/). This provides ample opportunities for collaboration and scientific exchange with a large community of translational and basic scientists.
 
