@@ -12,6 +12,10 @@ permalink: /people.html
 
 * Ashkan Bigledi (CPD) is specialized in developing clinical sequencing workflows.
 
+* Thomas Campbell (BMB student) started his rotation on cancer genomics.
+
 * Benjamin Kahn (undergraduate)
 
 * Rohan Alur (undergraduate)
+
+

@@ -17,15 +17,20 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ After more than a year researching in the lab, Yeqiao Zhao was admitted to the GGR PhD program. Congratulations Yeqiao! 
++ Thomas Campbell started his rotaion at the first week of May.
 
-+ Institute for Translational Medicine and Therapeutics [(ITMAT)](http://www.itmat.upenn.edu/) supported our proposal for single cell epigenomics study of Leukemia. 
++ Our lab was selected as a finalist for the Penn Precision Medicine Accelerator Fund.
+
++ Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
 
 + The lab received the Cooper Scholar Fund from the [Abramson Cancer Center's](https://www.pennmedicine.org/cancer). 
 
-+ Our Penn Epigenetics Pilot Grant was renewed till 2018. Thanks [The PENN Epigenetics Institute](https://hosting.med.upenn.edu/epigenetics/)! 
++ Our Penn Epigenetics Pilot Grant was renewed till 2018. Thanks [The PENN Epigenetics Institute](https://hosting.med.upenn.edu/epigenetics/)!
 
-+ Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
++ Institute for Translational Medicine and Therapeutics [(ITMAT)](http://www.itmat.upenn.edu/) supported our proposal for single cell epigenomics study of Leukemia.
+
++ After more than a year researching in the lab, Yeqiao Zhao was admitted to the GGR PhD program. Congratulations Yeqiao! 
+
 
 <br> 
 <strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we stablished a weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). It is an open venue for everything genomics. Join us on Fridays at 5 pm in the BRB305 to discuss computational biology and have a beer or two!).</span><strong>
