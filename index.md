@@ -17,11 +17,9 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Our proposal to the Penn Center for Precision Medicine [(PCPM)](https://lp.pennmedicine.org/precision-medicine/general?hcmacid=pm) was funded
++ Penn Center for Precision Medicine [(PCPM)](https://lp.pennmedicine.org/precision-medicine/general?hcmacid=pm) funded our proposal to study precision clinical decision making in targeted therapy of AML.
 
 + Thomas Campbell started his rotaion at the first week of May 2017.
-
-+ Our lab was selected as a finalist for the Penn Precision Medicine Accelerator Fund.
 
 + Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
 
