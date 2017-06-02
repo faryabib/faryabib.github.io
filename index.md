@@ -17,7 +17,9 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Thomas Campbell started his rotaion at the first week of May.
++ Our proposal to the Penn Center for Precision Medicine [(PCPM)](https://lp.pennmedicine.org/precision-medicine/general?hcmacid=pm) was funded
+
++ Thomas Campbell started his rotaion at the first week of May 2017.
 
 + Our lab was selected as a finalist for the Penn Precision Medicine Accelerator Fund.
 
