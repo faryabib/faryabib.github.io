@@ -12,8 +12,6 @@ permalink: /people.html
 
 * Ashkan Bigledi, MSc, (CPD) is specialized in developing clinical sequencing workflows.
 
-* Thomas Campbell (BMB, PhD student) started his rotation on cancer genomics.
-
 * Benjamin Kahn (Health and Societies, undergraduate)
 
 * Drishty Vora (MS of Biotech, student)
@@ -22,7 +20,10 @@ permalink: /people.html
 
 * Rohan Alur: Former: undergraduate, Networked and Social Systems - Current: UPENN computer science, MS program
 
-* Yeqiao Zhou: Former: Post-bac - Current: UPENN, GGR PhD program 
+* Yeqiao Zhou: Former: Post-bac - Current: UPENN, GGR PhD program
+
+* Thomas Campbell: Rotation student, BMB
+
 
 ----
 
