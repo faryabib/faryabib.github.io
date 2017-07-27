@@ -14,9 +14,11 @@ permalink: /people.html
 
 * Benjamin Kahn (Health and Societies, undergraduate)
 
-* Drishty Vora (MS of Biotech, student)
+* Jose Liboy Lugo (SUIP Undergrad, University of Puerto Rico)
 
 **Alumni**
+
+* Drishty Vora: Former: MS student of Biotech - Current: University of Pennsylvania Data Coordinator
 
 * Rohan Alur: Former: undergraduate, Networked and Social Systems - Current: UPENN computer science, MS program
 
