@@ -17,6 +17,8 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
++ Thanks to Jelena Petrovic and Yeqiao Zhou, our first map of breast cancer genome topology is ready! 
+
 + Our paper titled [''Functional proteogenomics reveals biomarkers and therapeutic targets in lymphomas''](http://www.pnas.org/content/114/25/6581.short) is now online at PNAS.
 
 + Penn Center for Precision Medicine [(PCPM)](https://lp.pennmedicine.org/precision-medicine/general?hcmacid=pm) funded our proposal to study precision clinical decision making in targeted therapy of AML.
