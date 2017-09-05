@@ -17,7 +17,11 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Thanks to Jelena Petrovic and Yeqiao Zhou, our first map of breast cancer genome topology is ready! 
++ Congratulations to Jelena and Yeqiao for their great work, ''A unique B-cell regulome links Notch to downstream oncogenic pathways in small B-cell lymphoma'', that was just accepted to Cell Reports. (September 2017) 
+
++ Welcoming new member of the lab: [ 10X Genomics Chromium](https://www.10xgenomics.com/single-cell/) (August 2017)
+
++ Thanks to Jelena Petrovic and Yeqiao Zhou, our first map of breast cancer genome topology is ready! (June 2017) 
 
 + Our paper titled [''Functional proteogenomics reveals biomarkers and therapeutic targets in lymphomas''](http://www.pnas.org/content/114/25/6581.short) is now online at PNAS.
 
