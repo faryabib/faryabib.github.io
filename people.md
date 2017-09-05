@@ -8,15 +8,18 @@ permalink: /people.html
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz), PhD, is interested in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. 
  
-* Yeqiao Zhou, MSc (GGR, PhD student), is looking at the measurement and inference of transcriptional regulatory networks in lymphomas. 
+* Yeqiao Zhou, MSc (Genetics and Epigenetics, PhD student), is looking at the measurement and inference of transcriptional regulatory networks in lymphomas. 
+
+* Tosin Ajiboye, BSc (Laboratory Technician)
 
 * Ashkan Bigledi, MSc, (CPD) is specialized in developing clinical sequencing workflows.
 
 * Benjamin Kahn (Health and Societies, undergraduate)
 
-* Jose Liboy Lugo (SUIP Undergrad, University of Puerto Rico)
 
 **Alumni**
+
+* Jose Liboy Lugo (SUIP Undergrad, University of Puerto Rico)
 
 * Drishty Vora: Former: MS student of Biotech - Current: University of Pennsylvania Data Coordinator
 

@@ -6,9 +6,9 @@ permalink: /index.html
 
 ![enhancer in cancer](assets/Faryabi_HiChIP.png){:height="200%" width="200%"} 
 
-We are a computational biology lab with focus on cancer epigenomics. Our research spans the areas of cancer biology, computational biology and machine learning. The overarching goal of our lab is to explore how oncogenic cell signaling pathways dysregulate enhancers' landscape of a tumor and understand their function in cancer.
+We are a computational biology lab with focus on cancer epigenomics. Our research spans the areas of cancer biology, computational biology and machine learning. The overarching goal of our lab is to explore how oncogenic cell receptors signaling dysregulate regulome and connectome of tumors and understand their consequences in tumor development and maintenance.
 
-The lab is specifically interested in lymphoma and leukemia which are the cancers of hematopoietic system. In addition to genetic alterations, abnormalities at epigenetic levels may give rise to these malignancies. We use genomics to identify the genetic variations in these tumor types and further elucidate how these genetic events alter a tumor's epigenome using population and single-cell epigenomics techniques. Our lab combines various established data-rich assays with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of regulome and connectome dysregulation in tumors at bulk and single cell levels.
+The lab is specifically interested in cancer types with frequent mutations in Notch receptor families. We use combination of wet and dry techniques to understand how oncogenic Notch drives regulatory program in these tumors. Our lab benefits from combination of various established data-rich assays with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of regulome and connectome dysregulation in Notch-driven tumors at both population and single cell levels.
 
 <strong><span style="background-color:rgb(230, 230, 255)">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.</span><strong>   
    
@@ -33,7 +33,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 + Institute for Translational Medicine and Therapeutics [(ITMAT)](http://www.itmat.upenn.edu/) supported our proposal for single cell epigenomics study of Leukemia.
 
-+ After more than a year researching in the lab, Yeqiao Zhao was admitted to the GGR PhD program. Congratulations Yeqiao! 
++ After more than a year researching in the lab, Yeqiao Zhao was admitted to the Genetics & Epigenetics PhD program at UPenn. Congratulations Yeqiao! 
 
 
 <br> 
