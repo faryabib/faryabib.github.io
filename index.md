@@ -4,11 +4,11 @@ title: Faryabi Lab @ UPENN
 permalink: /index.html
 ---
 
-![enhancer in cancer](assets/T_vs_B_MYC.png){:height="90%" width="90%"} 
+![enhancer in cancer](assets/Faryabi_HiChIP.png){:height="200%" width="200%"} 
 
 We are a computational biology lab with focus on cancer epigenomics. Our research spans the areas of cancer biology, computational biology and machine learning. The overarching goal of our lab is to explore how oncogenic cell signaling pathways dysregulate enhancers' landscape of a tumor and understand their function in cancer.
 
-The lab is specifically interested in lymphoma and leukemia which are the cancers of hematopoietic system. In addition to genetic alterations, abnormalities at epigenetic levels may give rise to these malignancies. We use genomics to identify the genetic variations in these tumor types and further elucidate how these genetic events alter a tumor's epigenome using population and single-cell epigenomics techniques.
+The lab is specifically interested in lymphoma and leukemia which are the cancers of hematopoietic system. In addition to genetic alterations, abnormalities at epigenetic levels may give rise to these malignancies. We use genomics to identify the genetic variations in these tumor types and further elucidate how these genetic events alter a tumor's epigenome using population and single-cell epigenomics techniques. Our lab combines various established data-rich assays with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of regulome and connectome dysregulation in tumors at bulk and single cell levels.
 
 <strong><span style="background-color:rgb(230, 230, 255)">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.</span><strong>   
    
