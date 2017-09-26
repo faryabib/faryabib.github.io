@@ -32,6 +32,6 @@ permalink: /people.html
 
 ----
 
-We had many things to celebrate (Yeqiao's BD, our first HiCHiP data, and a productive Sprig's 07 semester) with our colleagues at Vahedi Lab.
+We had many things to celebrate (Yeqiao's BD, our first HiCHiP data, and a productive Spring 2017 semester) with our colleagues at Vahedi Lab.
 
 ![lab](assets/dinner.jpg){:height="218px" width="290px"} 
