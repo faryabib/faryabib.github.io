@@ -17,7 +17,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ The lab study of breast cancer epigenome was founded by [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/).
++ The lab study of breast cancer epigenome was founded by [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/). (November 2017)
 
 + Congratulations to Jelena and Yeqiao for their great work, ''A unique B-cell regulome links Notch to downstream oncogenic pathways in small B-cell lymphoma'', that was just accepted to Cell Reports. (September 2017) 
 
