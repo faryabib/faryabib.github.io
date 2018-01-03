@@ -17,17 +17,17 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Gregory Schwartz's Project was highlighted in the (Penn Medicine News)[https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants]
++ Gregory Schwartz's software was highlighted in the [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants)
 
 + [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/) funded our project to investigate the mechanism of epigenetic dysregulation in breast cancer. (November 2017)
 
 + Congratulations to Jelena and Yeqiao for their great work, ''A unique B-cell regulome links Notch to downstream oncogenic pathways in small B-cell lymphoma'', that was just accepted to Cell Reports. (September 2017) 
 
-+ Welcoming new member of the lab: [ 10X Genomics Chromium](https://www.10xgenomics.com/single-cell/) (August 2017)
++ Welcoming new member of the lab: [10X Genomics Chromium](https://www.10xgenomics.com/single-cell/) (August 2017)
 
 + Thanks to Jelena Petrovic and Yeqiao Zhou, our first map of breast cancer genome topology is ready! (June 2017) 
 
-+ Our lab is featured on the (Pathology News)[http://pathology.med.upenn.edu/news/faryabi-lab-receives-grant-transdisciplinary-awards-program-translational-medicine-and]. 
++ Our lab is featured on the [Pathology News](http://pathology.med.upenn.edu/news/faryabi-lab-receives-grant-transdisciplinary-awards-program-translational-medicine-and). 
 
 + Our paper titled [''Functional proteogenomics reveals biomarkers and therapeutic targets in lymphomas''](http://www.pnas.org/content/114/25/6581.short) is now online at PNAS.
 
