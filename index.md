@@ -17,7 +17,9 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Gregory Schwartz's software was highlighted in the [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants)
++ A short video clip summarizing our AML precision prognostic project is posted at the [Penn Center for Precision Medicine](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV) (January 2018).
+
++ Gregory Schwartz's software was highlighted at the [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants)
 
 + [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/) funded our project to investigate the mechanism of epigenetic dysregulation in breast cancer. (November 2017)
 
