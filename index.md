@@ -16,7 +16,8 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
-+ Our research on the epigenetics of breast cancer will be supported by the Susan G. Komen's CCR New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
+
++ Our research on the epigenetic of breast cancer will be supported by the Susan G. Komen's CCR New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
 
 + Gregory Schwartz recieved travel award to present his work at the Biology of Genomes Cold Spring Harbor Conference (April 2018).  
 
