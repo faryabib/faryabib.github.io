@@ -16,6 +16,11 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
++ Our research on the epigenetics of breast cancer will be supported by the Susan G. Komen's CCR New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
+
++ Gregory Schwartz recieved travel award to present his work at the Biology of Genomes Cold Spring Harbor Conference (April 2018).  
+
++ Yeqiao Zhou joined the lab as a PhD student. Welcome Yeqiao! (March 2018)
 
 + A short video clip summarizing our AML precision prognostic project is posted at the [Penn Center for Precision Medicine](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV) (January 2018).
 
@@ -39,7 +44,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 + Ben Kahn and Rohan Alur joined the lab for their independent studies in February 2017. Welcome Ben and Rohan.
 
-+ The lab received the Cooper Scholar Fund from the [Abramson Cancer Center's](https://www.pennmedicine.org/cancer). 
++ The lab received the Cooper Scholar Award from the [Abramson Cancer Center's](https://www.pennmedicine.org/cancer). 
 
 + Our Penn Epigenetics Pilot Grant was renewed till 2018. Thanks [The PENN Epigenetics Institute](https://hosting.med.upenn.edu/epigenetics/)!
 
