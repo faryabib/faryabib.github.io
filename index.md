@@ -6,9 +6,9 @@ permalink: /index.html
 
 ![enhancer in cancer](assets/Faryabi_HiChIP.png){:height="200%" width="200%"} 
 
-Our lab focuses on understanding the mechanism of epigenetics dysregulation in cancer. Our specific goal is to elucidate how oncogenic signals such as Notch contribute to tumor pathogenicity through regulating its epigenetic program, and to leverage this mechanistic understanding for improved treatments. 
+Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. We are particularly interested in elucidating how oncogenic signals such as Notch contribute to tumor pathogenicity through regulating its epigenetic program, and to leverage this mechanistic understanding for improved treatments. 
 
-The lab is specifically interested in cancer types with frequent mutations in Notch receptor families. We use combination of wet and dry techniques to understand how oncogenic Notch drives regulatory program in these tumors. Our lab benefits from various established data-rich assays and combine them with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven tumors at both population and single cell levels.
+The lab mainly studies cancers with frequent mutations in Notch receptor families. We use combination of wet and dry techniques to understand how oncogenic Notch drives regulatory program in these tumors. Our lab benefits from various established data-rich assays and combine them with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven tumors at both population and single cell levels.
 
 <strong><span style="background-color:rgb(230, 230, 255)">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.</span><strong>   
    
