@@ -19,7 +19,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 + Congratulations to Gregory and the rest of the team for their interesting work, ''Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers'', that was just accepted to Frontiers in Genetics. (June 2018)
 
-+ A preprint of the Gregory's manuscript titled ''Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors'' is now on [bioRxiv](https://www.biorxiv.org/content/early/2018/05/14/322354).
++ A preprint of the Gregory's manuscript titled ''Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors'' is now on [bioRxiv](https://www.biorxiv.org/content/early/2018/05/14/322354). (June 2018)
 
 + Our research on the epigenetic of breast cancer will be supported by the Susan G. Komen's New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
 
