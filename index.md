@@ -17,15 +17,19 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
++ Congratulations to Gregory and the rest of the team for their interesting work, ''Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers'', that was just accepted to Frontiers in Genetics. (June 2018)
+
++ A preprint of the Gregory's manuscript titled ''Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors'' is now on [bioRxiv](https://www.biorxiv.org/content/early/2018/05/14/322354).
+
 + Our research on the epigenetic of breast cancer will be supported by the Susan G. Komen's New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
 
-+ Gregory Schwartz recieved travel award to present his work at the Biology of Genomes Cold Spring Harbor Conference (April 2018).  
++ Gregory recieved travel award to present his work at the Biology of Genomes Cold Spring Harbor Conference (April 2018).  
 
-+ Yeqiao Zhou joined the lab as a PhD student. Welcome Yeqiao! (March 2018)
++ Yeqiao joined the lab as a PhD student. Welcome Yeqiao! (March 2018)
 
 + A short video clip summarizing our AML precision prognostic project is posted at the [Penn Center for Precision Medicine](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV) (January 2018).
 
-+ Gregory Schwartz's software was highlighted at the [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants)
++ Gregory's software was highlighted at the [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2017/july/penn-center-for-precision-medicine-awards-565-000-in-second-accelerator-grants)
 
 + [Abramson Family Cancer Research Institute](http://www.afcri.upenn.edu/) funded our project to investigate the mechanism of epigenetic dysregulation in breast cancer. (November 2017)
 
