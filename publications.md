@@ -15,10 +15,10 @@ permalink: /Publications.html
 
 + Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors](https://www.biorxiv.org/content/early/2018/05/14/322354)'', preprint on [bioRxiv], 2018
 
-+ Russell Ryan\*, Jelena Petrovic*, et al. ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://www.sciencedirect.com/science/article/pii/S2211124717313712?via%3Dihub)'', Cell Reports, 2017
++ Russell Ryan#, Jelena Petrovic#, et al. ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://www.sciencedirect.com/science/article/pii/S2211124717313712?via%3Dihub)'', Cell Reports, 2017
 
 + Margarida Santos, Robert Faryabi, et al. ''[DNA-damage-induced differentiation of leukaemic cells as an anti-cancer barrier](https://www.nature.com/articles/nature13483)'', Nature, 2014
 
-+ Jacqueline Barlow*, Robert Faryabi*, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013
++ Jacqueline Barlow#, Robert Faryabi#, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013
 
-<br><strong><span style="background-color:rgb(230, 230, 255)">*: equal contributing authors</span><strong>
+<br><strong><span style="background-color:rgb(230, 230, 255)">#: equal contributing authors</span><strong>
