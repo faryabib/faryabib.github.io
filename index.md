@@ -17,7 +17,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Congratulations to Gregory and the rest of the team for their interesting work, ''Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers'', that was just accepted to Frontiers in Genetics. (June 2018)
++ Congratulations to Gregory and the rest of the team for their interesting work, ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'', published at the Frontiers in Genetics. (June 2018)
 
 + A preprint of the Gregory's manuscript titled ''Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors'' is now on [bioRxiv](https://www.biorxiv.org/content/early/2018/05/14/322354). (June 2018)
 
