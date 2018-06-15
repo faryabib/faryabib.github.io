@@ -11,9 +11,9 @@ permalink: /Publications.html
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Publications:</span><strong>
  
-+ Geregory Schwartz, et al. ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://www.frontiersin.org/articles/10.3389/fgene.2018.00205/abstract)'' , accepted to Frontiers in Genetics, 2018.
++ Geregory Schwartz, et al. ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'' , Frontiers in Genetics, 15 June 2018.
 
-+ Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors](https://www.biorxiv.org/content/early/2018/05/14/322354)'', preprint on [bioRxiv], 2018
++ Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors](https://www.biorxiv.org/content/early/2018/05/14/322354)'', preprint on [bioRxiv], 2018.
 
 + Russell Ryan^, Jelena Petrovic^, et al. ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://www.sciencedirect.com/science/article/pii/S2211124717313712?via%3Dihub)'', Cell Reports, 2017
 
