@@ -21,7 +21,7 @@ Rotation students and postodcs could use wet and/or dry approaches to investigat
 
 + A preprint of the Gregory's manuscript titled ''Classes of ITD predict outcomes in patients with AML treated with FLT3 inhibitors'' is now on [bioRxiv](https://www.biorxiv.org/content/early/2018/05/14/322354). (June 2018)
 
-+ Our research on the epigenetic of breast cancer will be supported by the Susan G. Komen's New Treatments for Drug-Resistant Breast Cancers funding program (April 2018). 
++ The lab received the Susan G. Komen's New Treatments for Drug-Resistant Breast Cancers award to study the mechanisms of epigenetic dysregulation in breast cancer. (April 2018). 
 
 + Gregory recieved travel award to present his work at the Biology of Genomes Cold Spring Harbor Conference (April 2018).  
 
