@@ -14,6 +14,12 @@ The lab mainly studies cancers with frequent mutations in Notch receptor familie
    
 Rotation students and postodcs could use wet and/or dry approaches to investigate the impact of epigenetics heterogeneity in tumor biology. Read about our [research](research.html) and checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
 
+Rotation Projects:
++ How does an oncogene reorganize tumor three-dimensional genome?
++ What are the tumor-specific drivers of long-range regulatory circuitry?
++ How does long-range regulatory circuitry can be used to target non-druggable oncogenes?
++ How does epigenetic plasticity drive resistance to targeted therapies?
+
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
