@@ -6,15 +6,15 @@ permalink: /people.html
 
 * [R. Babak Faryabi](PBabak.html), PhD, MSc
 
-* [Gregory Schwartz](https://github.com/GregorySchwartz), PhD, is interested in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. 
+* [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. 
  
-* [Yeqiao Zhou](https://twitter.com/GiseleYZhou), MSc (Genetics and Epigenetics, PhD student), is looking at the measurement and inference of breast cancer connectome. 
+* [Yeqiao Zhou](https://twitter.com/GiseleYZhou) is a PhD student at the Genetics and Epigenetics group. She is interested in interested in elucidating causes and consequences of connectome dysregulation in cancer. 
 
-* Tosin Ajiboye, BSc (Laboratory Technician), is studying single-cell epigenetics in cancer
+* Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
-* Ashkan Bigledi, MSc, (CPD) is specialized in developing clinical sequencing workflows.
+* Benjamin Kahn did his undergraduate study at UPenn Health and Societies. He is interested in tumor vascularization.
 
-* Benjamin Kahn (Health and Societies, undergraduate)
+* Parisa Samareh, GCB rotation student
 
 
 **Alumni**
@@ -28,6 +28,8 @@ permalink: /people.html
 * Yeqiao Zhou: Former: Post-bac - Current: UPENN, Genetics and Epigenetics PhD program
 
 * Thomas Campbell: Rotation student, BMB
+
+* Tosin Ajiboye: Former: BSc (Laboratory Technician) - Current: North Philadelphia Health System
 
 
 ----
