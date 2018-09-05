@@ -8,11 +8,11 @@ permalink: /Software.html
 
 ![inteGREAT](assets/inteGREAT.png){:height="290px" width="300px"}
 
-[inteGREAT:](https://github.com/faryabib/inteGREAT) A graph-based algorithm for robust and scalable differential integration of transcriptomic and proteomic measurements.
+[inteGREAT:](https://github.com/faryabib/inteGREAT) A graph-based algorithm for robust and scalable differential integration of transcriptomic and proteomic measurements. More details about inteGREAT at [Frontiers in Genetics](https://goo.gl/pvZ4Dn) 
 
 
 **[HeatITup:](https://github.com/faryabib/HeatITup)**
 
 ![HeatITup](assets/HeatITup.png){:height="290px" width="300px"}
 
-[HEAT diffusion for Internal Tandem dUPlication (HeatITup):](https://github.com/faryabib/HeatITup) An algorithm for efficient and robust identification and classification of ITD mutations.
+[HEAT diffusion for Internal Tandem dUPlication (HeatITup):](https://github.com/faryabib/HeatITup) An algorithm for efficient and robust identification and classification of ITD mutations. More details about HeatITup at [Clinical Cancer Research](http://clincancerres.aacrjournals.org/content/early/2018/09/01/1078-0432.CCR-18-0655)
