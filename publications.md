@@ -4,14 +4,14 @@ title: Publications
 permalink: /Publications.html
 ---
 
-[![Google](assets/Google_scholar_resize.gif "Google")](https://scholar.google.com/citations?hl=en&user=1BNY8YUAAAAJ&view_op=list_works&sortby=pubdate)[    Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=1BNY8YUAAAAJ&view_op=list_works&sortby=pubdate)
+[![Google](assets/Google_scholar_resize.gif "Google")](https://scholar.google.com/citations?hl=en&user=1BNY8YUAAAAJ&view_op=list_works&sortby=pubdate)[Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=1BNY8YUAAAAJ&view_op=list_works&sortby=pubdate)
 
-[![PubMed](assets/pubmedOrig_resize1.png "PubMed")](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)[    PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)   
+[![PubMed](assets/pubmedOrig_resize1.png "PubMed")](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)[PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)   
 
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Publications:</span><strong>
 
-+ Geregory Schwartz, et al. ''Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors'', accepted for publication in Clinical Cancer Research, July 2018.
++ Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/early/2018/09/01/1078-0432.CCR-18-0655)'', Clinical Cancer Research, July 2018.
 
 + Geregory Schwartz, et al. ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'' , Frontiers in Genetics, 15 June 2018.
 
