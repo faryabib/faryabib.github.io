@@ -33,6 +33,10 @@ permalink: /people.html
 
 
 ----
+Lab photo at the end of Fall 2018 semester.
+
+![lab](assets/DSC03507.JPG){:height="218px" width="290px"} 
+
 
 We had many things to celebrate (Yeqiao's BD, our first HiCHiP data, and a productive Spring 2017 semester) with our colleagues at Vahedi Lab.
 
