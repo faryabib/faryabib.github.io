@@ -6,7 +6,7 @@ permalink: /Software.html
 
 **[TooManyCells:](https://github.com/faryabiLab/too-many-cells)**
 
-![TooManyCells](assets/dendrogram.pdf){:height="290px" width="300px"}
+![TooManyCells](assets/dendrogram.png){:height="290px" width="300px"}
 
 [TooManyCells:](https://github.com/faryabiLab/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle cell measurements clustering. More details about TooManyCells at [BioRxiv]() 
 
