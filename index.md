@@ -23,13 +23,15 @@ Rotation Projects:
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
++ Our work entitled ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/early/2018/11/29/1078-0432.CCR-18-0655)'' was highlighted by Clinical Cancer Research commentary [here] (http://clincancerres.aacrjournals.org/content/early/2018/11/29/1078-0432.CCR-18-3146) 
+
 + Gregory is presenting [TooManyCells](https://github.com/faryabiLab/too-many-cells) at Single Cell Biology Keystone Conference (January 2019). 
 
-+ Gregory's preprint describing [TooManyCells](https://github.com/faryabiLab/too-many-cells), a suite of graph-based scRNA-seq clustering and visualization tools, are now on Biorvix (January 2019). 
++ Our preprint describing [TooManyCells](https://github.com/faryabiLab/too-many-cells), a suite of graph-based scRNA-seq clustering and visualization tools, are now on [Biorvix] (http://biorxiv.org/cgi/content/short/519660v1) (January 2019). 
 
 + Acceptance letter from Molecular Cell was Santa's present for Jelena and Yeqaio. Have a wonderful 2019! 
 
-+ Our work entitled ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/early/2018/09/01/1078-0432.CCR-18-0655)'', has been accepted for publication in Clinical Cancer Research. A related video clip at the [Penn Center for Precision Medicine](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV) (July 2018).
++ Our work entitled ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/early/2018/11/29/1078-0432.CCR-18-0655)'', has been accepted for publication in Clinical Cancer Research. A related video clip at the [Penn Center for Precision Medicine](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV) (July 2018).
 
 + Congratulations to Gregory and the rest of the team for their interesting work, ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'', published at the Frontiers in Genetics. (June 2018)
 
