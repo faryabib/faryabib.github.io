@@ -6,18 +6,20 @@ permalink: /people.html
 
 * [R. Babak Faryabi](PBabak.html), PhD, MSc
 
-* [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. 
+* [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Petrovic research has been support by NIH Immunobiology of Normal and Neoplastic Training Grant. 
  
-* [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) is a PhD student at the Genetics and Epigenetics group. She is interested in interested in elucidating causes and consequences of connectome dysregulation in cancer. 
+* [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) is a PhD student at the Genetics and Epigenetics group. She is interested in elucidating causes and consequences of genome misfolding in cancer. 
+
+* Jelena Petrovic joined the lab (Joint with Warren Pear) after her doctoral training at the Universitat Pompeu Fabra, Barcelona, Spain. She is an expert in cancer epigenomics. Her research focuses on the mechanisms of genome misfolding in cancer. Dr. Petrovic research has been support by a Leukemia and Lymphoma Society Postdoctoral Fellowship.
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
-* Benjamin Kahn did his undergraduate study at UPenn Health and Societies. He is interested in tumor vascularization.
-
-* Parisa Samareh, GCB rotation student
-
-
 **Alumni**
+
+* Benjamin Kahn: Former: Undergraduate independent study - Current: Post-bac at Stanger Lab.
+[comment]: <* Benjamin Kahn did his undergraduate study at UPenn Health and Societies. He is interested in tumor vascularization.>
+
+* Parisa Samareh: Rotation student, GCB
 
 * Jose Liboy Lugo: Former: SUIP Undergrad, University of Puerto Rico
 
