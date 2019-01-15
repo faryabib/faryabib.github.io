@@ -12,7 +12,7 @@ permalink: /Software.html
 
 **[HeatITup:](https://github.com/faryabib/HeatITup)**
 
-![HeatITup](assets/HeatITup.png){:height="290px" width="300px"}
+![HeatITup](assets/HeatITup_AACR.png){:height="290px" width="300px"}
 
 [HEAT diffusion for Internal Tandem dUPlication (HeatITup):](https://github.com/faryabib/HeatITup) An algorithm for efficient and robust identification and classification of ITD mutations. More details about HeatITup at [Clinical Cancer Research](http://clincancerres.aacrjournals.org/cgi/content/abstract/1078-0432.CCR-18-0655).
 
