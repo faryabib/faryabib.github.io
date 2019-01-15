@@ -37,6 +37,7 @@ For example, we are interested in understanding how epigenomics and transcriptom
 **Medical decision making algorithm in AML**
 
 [comment]: <![FLT3 in AML](assets/precision.png){:height="290px" width="300px"}>
+![FLT3 in AML](assets/HeatITup_AACR.png){:height="290px" width="300px"}
 
 Faryabi lab is also interested in developing computational oncology frameworks to enrich clinical significance of diagnostic tumor genomics to advance the paradigm of personalized medicine. To this end, we leverage clinical cases to investigate the correlation between the heterogeneity in mutational structures and response to targeted therapies. Adopting a “bedside to bench and back” approach, our aim is to identify tumor cell-specific vulnerabilities that could be exploited therapeutically. You could learn more about our this project [here](https://www.youtube.com/watch?v=vqLXfHXP98A&index=20&list=PLRGEsZTjjo8mLReT4vqHU6cc_d4hn46GV).  
 
