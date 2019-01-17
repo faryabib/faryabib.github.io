@@ -20,6 +20,9 @@ Rotation Projects:
 + How does long-range regulatory circuitry can be used to target non-druggable oncogenes?
 + How does epigenetic plasticity drive resistance to targeted therapies?
 
+<br>
+<strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we stablished a weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). It is an open venue for everything genomics. Join us on Fridays at 5 pm in the BRB305 to discuss computational biology and have a beer or two!).</span><strong>
+
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
@@ -75,5 +78,5 @@ Rotation Projects:
 
 
 <br> 
-<strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we stablished a weekly [computational journal club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). It is an open venue for everything genomics. Join us on Fridays at 5 pm in the BRB305 to discuss computational biology and have a beer or two!).</span><strong>
+
 
