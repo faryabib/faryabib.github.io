@@ -21,7 +21,7 @@ permalink: /Publications.html
 
 + Margarida Santos, Robert Faryabi, et al. ''[DNA-damage-induced differentiation of leukaemic cells as an anti-cancer barrier](https://www.nature.com/articles/nature13483)'', Nature, 2014
 
-+ Jacqueline Barlow^, Robert Faryabi^, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013
++ Jacqueline Barlow^, Robert Faryabi^, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013, ^: equal contributing authors
 
 <br><strong><span style="background-color:rgb(230, 230, 255)">^: equal contributing authors</span><strong>
 
