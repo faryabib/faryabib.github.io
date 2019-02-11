@@ -15,7 +15,7 @@ permalink: /Publications.html
 
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Publications:</span><strong>
 
-+ Jelena Petrovic^, Yeqiao Zhou^, et al. ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](www.cell.com/molecular-cell/fulltext/S1097-2765(19)30006-1), Molecular Cell, March 2019
++ Jelena Petrovic^, Yeqiao Zhou^, et al. ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](www.cell.com/molecular-cell/fulltext/S1097-2765(19)30006-1)'', Molecular Cell, March 2019
   
 + Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/25/2/573)'', Clinical Cancer Research, July 2018.
 
