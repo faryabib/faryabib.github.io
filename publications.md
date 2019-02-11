@@ -9,13 +9,9 @@ permalink: /Publications.html
 [![PubMed](assets/pubmedOrig_resize1.png "PubMed")](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)[PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=(Faryabi%2C%20Babak%5BAuthor%5D)%20OR%20Faryabi%2C%20Robert%5BAuthor%5D)   
 
 ----
-<strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Preprints:</span><strong>
-
-+ Geregory Schwartz, et al. ''[TooManyCells identifies and visualizes relationships of single-cell clades](http://biorxiv.org/cgi/content/short/519660v1)'', BioRxiv, January 2019.
-
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Publications:</span><strong>
 
-+ Jelena Petrovic^, Yeqiao Zhou^, et al. ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](www.cell.com/molecular-cell/fulltext/S1097-2765(19)30006-1)'', Molecular Cell, March 2019
++ Jelena Petrovic^, Yeqiao Zhou^, et al. ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/6yvwrn)'', Molecular Cell, March 2019
   
 + Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/25/2/573)'', Clinical Cancer Research, July 2018.
 
@@ -28,3 +24,7 @@ permalink: /Publications.html
 + Jacqueline Barlow^, Robert Faryabi^, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013
 
 <br><strong><span style="background-color:rgb(230, 230, 255)">^: equal contributing authors</span><strong>
+
+<strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Preprints:</span><strong>
+
++ Geregory Schwartz, et al. ''[TooManyCells identifies and visualizes relationships of single-cell clades](http://biorxiv.org/cgi/content/short/519660v1)'', BioRxiv, January 2019.
