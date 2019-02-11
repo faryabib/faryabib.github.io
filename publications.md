@@ -23,7 +23,7 @@ permalink: /Publications.html
 
 + Jacqueline Barlow^, Robert Faryabi^, et al. ''[Identification of early replicating fragile sites that contribute to genome instability](https://www.sciencedirect.com/science/article/pii/S0092867413000081?via%3Dihub)'' Cell, 2013, ^: equal contributing authors
 
-[comment]:<br><strong><span style="background-color:rgb(230, 230, 255)">^: equal contributing authors</span><strong>
+[comment]:(<br><strong><span style="background-color:rgb(230, 230, 255)">^: equal contributing authors</span><strong>)
 
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Preprints:</span><strong>
 
