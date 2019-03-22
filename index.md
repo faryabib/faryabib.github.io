@@ -26,7 +26,7 @@ Rotation Projects:
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Babak presented research led by Jelena and Yeqiao at the [Keystone 3D Genome] (https://goo.gl/WJSQoX) meeting 
++ Babak presented research led by Jelena and Yeqiao at the [Keystone 3D Genome](https://goo.gl/WJSQoX) meeting 
 
 + Congratulations to Jelena and Yeqiao! Their Molecular Cell paper entitled ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/WwfaHD)'' is now online.  
 
