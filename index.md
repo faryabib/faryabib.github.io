@@ -26,7 +26,9 @@ Rotation Projects:
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Congratulations to Jelena and Yeqiao! Their Molecular Cell paper entitled ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/6yvwrn)'' is now online.  
++ Babak presented research led by Jelena and Yeqiao at the [Keystone 3D Genome] (https://goo.gl/WJSQoX) meeting 
+
++ Congratulations to Jelena and Yeqiao! Their Molecular Cell paper entitled ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/WwfaHD)'' is now online.  
 
 + The significance of our work entitled ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/cgi/content/abstract/1078-0432.CCR-18-0655)'' was highlighted in a Clinical Cancer Research commentary entitled ''[Prognostic Models Turn the Heat(IT)up on FLT3-ITD-Mutated AML](http://clincancerres.aacrjournals.org/content/25/2/460?iss=2)''. 
 
