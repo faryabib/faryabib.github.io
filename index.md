@@ -26,6 +26,8 @@ Rotation Projects:
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
++ Congratulations to [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) for passed her prelim with the highest score possible.
+
 + Babak presented at the [Keystone 3D Genome](https://goo.gl/WJSQoX) meeting, March 2019, at Banff.
 
 + Congratulations to Jelena and Yeqiao! Their Molecular Cell paper entitled ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/WwfaHD)'' is now online.  
