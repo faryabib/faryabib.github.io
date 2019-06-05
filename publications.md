@@ -26,4 +26,4 @@ permalink: /Publications.html
 
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Preprints:</span><strong>
 
-+ Geregory Schwartz, et al. ''[TooManyCells identifies and visualizes relationships of single-cell clades](http://biorxiv.org/cgi/content/short/519660v1)'', BioRxiv, January 2019.
++ Gregory Schwartz, et al. ''[TooManyCells identifies and visualizes relationships of single-cell clades](http://biorxiv.org/cgi/content/short/519660v1)'', BioRxiv, January 2019.
