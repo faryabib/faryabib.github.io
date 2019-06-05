@@ -13,9 +13,9 @@ permalink: /Publications.html
 
 + Jelena Petrovic^, Yeqiao Zhou^, et al. ''[Oncogenic Notch Promotes Long-Range Regulatory Interactions within Hyperconnected 3D Cliques](https://goo.gl/6yvwrn)'', Molecular Cell, March 2019, ^: equal contributing authors
   
-+ Geregory Schwartz, et al. ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/25/2/573)'', Clinical Cancer Research, July 2018.
++ Gregory Schwartz, et al. ''[Classes of ITD predict outcomes in AML patients treated with FLT3 inhibitors](http://clincancerres.aacrjournals.org/content/25/2/573)'', Clinical Cancer Research, July 2018.
 
-+ Geregory Schwartz, et al. ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'' , Frontiers in Genetics, 15 June 2018.
++ Gregory Schwartz, et al. ''[Differential integration of transcriptome and proteome identifies pan-cancer prognostic biomarkers](https://goo.gl/pvZ4Dn)'' , Frontiers in Genetics, 15 June 2018.
 
 + Russell Ryan^, Jelena Petrovic^, et al. ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://www.sciencedirect.com/science/article/pii/S2211124717313712?via%3Dihub)'', Cell Reports, 2017, ^: equal contributing authors
 
