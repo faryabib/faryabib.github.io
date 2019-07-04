@@ -4,29 +4,27 @@ title: Faryabi Lab @ UPENN
 permalink: /index.html
 ---
 
-![enhancer in cancer](assets/Faryabi_HiChIP.png){:height="200%" width="200%"} 
+![enhancer in cancer](assets/MYC_FISH_EP.jpg){:height="200%" width="200%"} 
 
-Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. We are particularly interested in elucidating how oncogenic transcription factors reorganize cancer genome folding, and to leverage this mechanistic understanding for improved treatments. 
+Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. The lab mainly studies cancers with frequent Notch mutations. We are particularly interested in elucidating how oncogenic Notch transcription factors reorganize cancer epigenomes, and ultimately leverage this mechanistic understanding for targeted therapy in Notch-mutated tumors. 
 
-The lab mainly studies cancers with frequent Notch mutations. We use combination of genomic and genome editing techniques and combine them with advanced computational approaches to understand how oncogenic Notch controls linear and 3D epigenome of cancer cells. Our lab uses from various established data-rich assays (e.g. ChIP-seq, ATAC-seq, Cut&Run, etc.) and combine them with high resolution chromatin conformation capture technologies such as HiChIP and single-cell measurements (3D DNA FISH and scATAC-seq) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven cancers at population and single-cell resolutions.
+We use combination of genomics and high-content imaging and combine them with advanced computational approaches to understand how oncogenic Notch controls linear and 3D epigenome of cancer cells. Our lab uses various data-rich assays (ChIP-seq, ATAC-seq, Cut&Run, etc.) and combine them with high resolution chromatin conformation capture technologies (HiChIP, 4C-seq, etc.) and single-cell measurements (3D DNA FISH, scATAC-seq) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven cancers at population and single-cell resolutions.
 
-<strong><span style="background-color:rgb(230, 230, 255)">Passionate individuals who are interested in investigating cancer epigenomics are invited to join us to work on projects supported by National Cancer Institute, Komen Foundation, and Concern Foundation amoung others.</span><strong>   
-   
-Rotation students and postodcs could use high resolution genomic approaches to investigate the impact of epigenetic heterogeneity on oncogenesis and treatment of cancer. Read about our [research](research.html) and checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
+<span style="background-color:rgb(230, 230, 255)">Passionate individuals who are interested in investigating mechanisms of cancer epigenetic deregulation are invited to join us to work on projects supported by National Cancer Institute, Komen Foundation, and Concern Foundation amoung others.</span>
+Rotation students and postodcs could use high resolution genomic approaches to investigate the impact of epigenetic deregulation on oncogenesis and treatment response in Notch-mutated cancers. For instance, they can study 
++ How does oncogenic Notch instruct cancer genome folding?
++ What are the underlying mechanisms of epigenetic dysregulation selectivity in Notch-mutated cancers?
++ How does precise epigenetic targeting can be harnessed for cancer therapeutics?
++ How does epigenetic plasticity drive resistance to targeted therapies in Notch-mutated cancers?
 
-Rotation Projects:
-+ How does an oncogene reorganize tumor three-dimensional genome?
-+ What are the tumor-specific drivers of long-range transcriptional regulation?
-+ How does long-range regulatory circuitry can be used to target non-druggable oncogenes?
-+ How does epigenetic plasticity drive resistance to targeted therapies?
+Read about our [research](research.html) and checkout our available [positions](positions.html) if you are interested in joining our team. 
 
 <br>
-<strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we established [IFI Advanced Computational Biology Club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). Join us Fridays at 4 pm (BRB 301) to share your experience with the application of cutting-edge technologies in biology and have a beer or two!</span><strong>
 
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Our R01 was scored in the NCI R37 fundable ragne (July 2019)!
++ Our R01 was scored in the NCI R37 fundable range (July 2019)!
 
 + Babak presented at the National Cancer Institute's Genome Integrity Seminar Series (June 2019).
 

@@ -18,19 +18,19 @@ permalink: /people.html
 
 * Benjamin Kahn: Former: Undergraduate independent study - Current: Post-bac at Stanger Lab.
 
-* Parisa Samareh: Rotation student, GCB
+* Parisa Samareh: Former: Rotation student, GCB
 
-* Jose Liboy Lugo: Former: SUIP Undergrad, University of Puerto Rico - Current: PhD student at UCSF
+* Jose Liboy Lugo: Former: SUIP undergraduate student, University of Puerto Rico - Current: PhD student at UCSF
 
-* Drishty Vora: Former: MS student of Biotech - Current: University of Pennsylvania Data Coordinator
+* Drishty Vora: Former: MS student of Biotech - Current: UPenn Data Coordinator
 
-* Rohan Alur: Former: undergraduate, Networked and Social Systems - Current: UPENN computer science, MS program
+* Rohan Alur: Former: UPenn computer science, MS program - Current: Bridgewater Associates
 
 * Yeqiao Zhou: Former: Post-bac - Current: UPENN, Genetics and Epigenetics PhD program
 
 * Thomas Campbell: Rotation student, BMB
 
-* Tosin Ajiboye: Former: BSc (Laboratory Technician) - Current: North Philadelphia Health System
+* Tosin Ajiboye: Former: Laboratory Technician - Current: North Philadelphia Health System
 
 
 ----

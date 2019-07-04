@@ -27,3 +27,6 @@ permalink: /Publications.html
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Selected Preprints:</span><strong>
 
 + Gregory Schwartz, et al. ''[TooManyCells identifies and visualizes relationships of single-cell clades](http://biorxiv.org/cgi/content/short/519660v1)'', BioRxiv, January 2019.
+
+<br>
+<strong><span style="background-color:rgb(230, 230, 255)">In collaboration with Dr. Vahedi's lab, we established [IFI Advanced Computational Biology Club](https://github.com/VahediLab/ComputationalJournalClub/blob/master/Schedule.md). Join us Fridays at 4 pm (BRB 301) to share your experience with the application of cutting-edge technologies in biology and have a beer or two!</span><strong>
