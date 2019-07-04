@@ -8,7 +8,7 @@ permalink: /index.html
 
 Our lab focuses on understanding the mechanisms of epigenetic desregulation in cancer. We are particularly interested in understanding how signaling-dependent transcription factors such as Notch reorganize cancer epigenomes. This mechanistic knowledge constitutes an important step toward leveraging selective disruption of epigenetic homeostasis as targeted therapeutic options. 
 
-We have setup various genomic assays to understand how oncogenic transcription factors regulate linear and 3D epigenome of cancer cells. To this end, we use data-rich assays (ChIP-seq, ATAC-seq, Cut&Run, etc.) to measure chromatin activity and combine these information with high resolution chromatin conformation capture technologies (HiChIP, 4C-seq, etc.) to  and single-cell measurements (3D DNA FISH, scATAC-seq) to elucidate mechanisms of epigenetic dysregulation. 
+We have setup various genomic assays to understand how oncogenic transcription factors regulate linear and 3D epigenome of cancer cells. To this end, we use data-rich assays (ChIP-seq, ATAC-seq, Cut&Run, etc.) to measure chromatin activity and combine these information with high resolution chromatin conformation capture technologies (HiChIP, 4C-seq, etc.). 
 
 We also use single-cell measurements to study how chromatin state (scATAC-seq) and folding (3D DNA FISH) heterogeneity impact cancer cell evolution and response to targeted therapies.
 
