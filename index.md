@@ -6,9 +6,11 @@ permalink: /index.html
 
 ![enhancer in cancer](assets/MYC_FISH_EP.jpg){:height="200%" width="200%"} 
 
-Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. The lab mainly studies cancers with frequent Notch mutations. We are particularly interested in elucidating how oncogenic Notch transcription factors reorganize cancer epigenomes, and ultimately leverage this mechanistic understanding for targeted therapy in Notch-mutated tumors. 
+Our lab focuses on understanding the mechanisms of epigenetic desregulation in cancer. We are particularly interested in understanding how signaling-dependent transcription factors such as Notch reorganize cancer epigenomes. This mechanistic knowledge constitutes an important step toward leveraging selective disruption of epigenetic homeostasis as targeted therapeutic options. 
 
-We use combination of genomics and high-content imaging and combine them with advanced computational approaches to understand how oncogenic Notch controls linear and 3D epigenome of cancer cells. Our lab uses various data-rich assays (ChIP-seq, ATAC-seq, Cut&Run, etc.) and combine them with high resolution chromatin conformation capture technologies (HiChIP, 4C-seq, etc.) and single-cell measurements (3D DNA FISH, scATAC-seq) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven cancers at population and single-cell resolutions.
+We have setup various genomic assays to understand how oncogenic transcription factors regulate linear and 3D epigenome of cancer cells. To this end, we use data-rich assays (ChIP-seq, ATAC-seq, Cut&Run, etc.) to measure chromatin activity and combine these information with high resolution chromatin conformation capture technologies (HiChIP, 4C-seq, etc.) to  and single-cell measurements (3D DNA FISH, scATAC-seq) to elucidate mechanisms of epigenetic dysregulation. 
+
+We also use single-cell measurements to study how chromatin state (scATAC-seq) and folding (3D DNA FISH) heterogeneity impact cancer cell evolution and response to targeted therapies.
 
 <span style="background-color:rgb(230, 230, 255)">Passionate individuals who are interested in investigating mechanisms of cancer epigenetic deregulation are invited to join us to work on projects supported by National Cancer Institute, Komen Foundation, and Concern Foundation amoung others.</span>
 Rotation students and postodcs could use high resolution genomic approaches to investigate the impact of epigenetic deregulation on oncogenesis and treatment response in Notch-mutated cancers. For instance, they can study 
