@@ -6,17 +6,17 @@ permalink: /index.html
 
 ![enhancer in cancer](assets/Faryabi_HiChIP.png){:height="200%" width="200%"} 
 
-Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. We are particularly interested in elucidating how oncogenic signals such as Notch contribute to tumor pathogenicity through regulating its epigenetic program, and to leverage this mechanistic understanding for improved treatments. 
+Our lab focuses on understanding the mechanism of epigenetic dysregulation in cancer. We are particularly interested in elucidating how oncogenic transcription factors reorganize cancer genome folding, and to leverage this mechanistic understanding for improved treatments. 
 
-The lab mainly studies cancers with frequent mutations in Notch receptor families. We use combination of wet and dry techniques to understand how oncogenic Notch drives regulatory program in these tumors. Our lab benefits from various established data-rich assays and combine them with novel technologies such as [HiChIP](https://www.nature.com/nmeth/journal/v13/n11/full/nmeth.3999.html) and [10X Genomics](https://www.10xgenomics.com/single-cell/) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven tumors at both population and single cell levels.
+The lab mainly studies cancers with frequent Notch mutations. We use combination of genomic and genome editing techniques and combine them with advanced computational approaches to understand how oncogenic Notch controls linear and 3D epigenome of cancer cells. Our lab uses from various established data-rich assays (e.g. ChIP-seq, ATAC-seq, Cut&Run, etc.) and combine them with high resolution chromatin conformation capture technologies such as HiChIP and single-cell measurements (3D DNA FISH and scATAC-seq) to elucidate the mechanisms of epigenetic dysregulation in Notch-driven cancers at population and single-cell resolutions.
 
-<strong><span style="background-color:rgb(230, 230, 255)">We are always looking for passionate individuals who are interested in investigating cancer epigenomics using combination of experimental and computational approaches.</span><strong>   
+<strong><span style="background-color:rgb(230, 230, 255)">Passionate individuals who are interested in investigating cancer epigenomics are invited to join us to work on projects supported by National Cancer Institute, Komen Foundation, and Concern Foundation amoung others.</span><strong>   
    
-Rotation students and postodcs could use wet and/or dry approaches to investigate the impact of epigenetics heterogeneity in tumor biology. Read about our [research](research.html) and checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
+Rotation students and postodcs could use high resolution genomic approaches to investigate the impact of epigenetic heterogeneity on oncogenesis and treatment of cancer. Read about our [research](research.html) and checkout [here](positions.html) if you are interested in joining our team or doing rotation in the lab. 
 
 Rotation Projects:
 + How does an oncogene reorganize tumor three-dimensional genome?
-+ What are the tumor-specific drivers of long-range regulatory circuitry?
++ What are the tumor-specific drivers of long-range transcriptional regulation?
 + How does long-range regulatory circuitry can be used to target non-druggable oncogenes?
 + How does epigenetic plasticity drive resistance to targeted therapies?
 
@@ -26,7 +26,13 @@ Rotation Projects:
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
-+ Congratulations to [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) for passed her prelim with the highest score possible.
++ Our R01 was scored in the NCI R37 fundable ragne (July 2019)!
+
++ Babak presented at the National Cancer Institute's Genome Integrity Seminar Series (June 2019).
+
++ Congratulations to [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) for passed her prelim with the highest score possible (May 2019).
+
++ Thank's Rutgers University’s Molecular and Biochemistry Society Seminar Series for hosting Babak (April 2019).
 
 + Babak presented at the [Keystone 3D Genome](https://goo.gl/WJSQoX) meeting, March 2019, at Banff.
 
