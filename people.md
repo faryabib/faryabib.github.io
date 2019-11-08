@@ -6,7 +6,7 @@ permalink: /people.html
 
 * [R. Babak Faryabi](PBabak.html), PhD, MSc
 
-* [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) is a PhD student at the Genetics and Epigenetics group. She is interested in elucidating causes and consequences of genome misfolding in cancer. 
+* [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) is a PhD candidate at the Genetics and Epigenetics Graduate Group. She is interested in elucidating causes and consequences of genome misfolding in cancer. 
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
 
