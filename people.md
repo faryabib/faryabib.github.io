@@ -8,13 +8,19 @@ permalink: /people.html
 
 * [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) is a PhD student at the Genetics and Epigenetics group. She is interested in elucidating causes and consequences of genome misfolding in cancer. 
 
-* Jelena Petrovic (Joint with Warren Pear) joint the lab after her doctoral training at the Universitat Pompeu Fabra, Barcelona, Spain. She is an expert in cancer epigenomics. Her research focuses on the mechanisms of genome misfolding in cancer. Dr. Petrovic research has been support by a Leukemia and Lymphoma Society Postdoctoral Fellowship.
-
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
+
+* Mark Boltengagen is coming to us from the Humboldt University of Berlin, Germany.
+
+* Ke Fang is joining the lab after his PhD training at the Shanghai Jiao Tong University, China.
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
+* Rupa Khanal is a rotation PhD studnet from the Department of Biology.
+
 **Alumni**
+
+* Jelena Petrovic (joint with Warren Pear): Postdoctoral fellow - Current: Research Scientist at Genentech 
 
 * Benjamin Kahn: Former: Undergraduate independent study - Current: Post-bac at Stanger Lab.
 
