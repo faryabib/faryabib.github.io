@@ -4,11 +4,11 @@ title: Software
 permalink: /Software.html
 ---
 
-**[TooManyCells:](https://github.com/faryabiLab/too-many-cells)**
+**[TooManyCells:](https://github.com/faryabib/too-many-cells)**
 
 ![TooManyCells](assets/dendrogram.png){:height="290px" width="300px"}
 
-[TooManyCells:](https://github.com/faryabiLab/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle cell measurements clustering. More details about TooManyCells at [Biorvix](http://biorxiv.org/cgi/content/short/519660v1). 
+[TooManyCells:](https://github.com/faryabib/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle cell measurements clustering. More details about TooManyCells at [Biorvix](http://biorxiv.org/cgi/content/short/519660v1). 
 
 **[HeatITup:](https://github.com/faryabib/HeatITup)**
 
