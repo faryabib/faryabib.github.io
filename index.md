@@ -26,6 +26,8 @@ Read about our [research](research.html) and checkout our available [positions](
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff">NEWS:</span><strong>
 
++ Congratulations to Gregory Schwartz and the rest of the lab for thier work recently accepted for publication in Nature Methods (January 2020).
+
 + Join me to congratulate Jelena for joining Genentech as a research scientist. You will be missed (November 2019)!
 
 + Our R01 was scored in the NCI R37 fundable range (July 2019)!

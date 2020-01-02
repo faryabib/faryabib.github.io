@@ -10,19 +10,19 @@ permalink: /people.html
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
 
-* Mark Boltengagen is coming to us from the Humboldt University of Berlin, Germany.
+* Mark Boltengagen joined the lab from the Humboldt University of Berlin, Germany.
 
 * Ke Fang is joining the lab after his PhD training at the Shanghai Jiao Tong University, China.
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
-* Rupa Khanal is a rotation PhD studnet from the Department of Biology.
-
 **Alumni**
 
 * Jelena Petrovic (joint with Warren Pear): Postdoctoral fellow - Current: Research Scientist at Genentech 
 
-* Benjamin Kahn: Former: Undergraduate independent study - Current: Post-bac at Stanger Lab.
+* Rupa Khanal is a rotation PhD studnet from the Department of Biology.
+
+* Benjamin Kahn: Former: Undergraduate independent study - Current: MD/PhD student at Penn.
 
 * Parisa Samareh: Former: Rotation student, GCB
 
