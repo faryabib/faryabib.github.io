@@ -23,12 +23,10 @@ Passionate students and postdocs who are interested in investigating these quest
 
 
 ----
-{% twitter https://twitter.com/bfariabi align=left maxwidth=500 limit=5 %}
-
-
-
 
 {% comment %}
+{% twitter https://twitter.com/bfariabi align=left maxwidth=500 limit=5 %}
+
 <span style="background-color:rgb(230, 230, 255)">Passionate students and postdocs who are interested in investigating these questions are invited to read about our [research](04_research.html), checkout our available [positions](03_positions.html), and contact us for more details.</span> 
 {% endcomment %}
 
