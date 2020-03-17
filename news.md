@@ -4,11 +4,11 @@ title: News
 permalink: /News.html
 ---
 
-+ Congratulations to Gregory and the rest of the lab for thier work publication in [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5) (March 2020).
++ Congratulations to Gregory and the rest of the lab for their recent paper published in [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5) (March 2020).
 
 + Yeqiao is presenting her latest data at Epigenetics & Immunology Symposium (March 2020).
 
-+ Babak presented at the Weill Cornall (February 2020).
++ Babak presented at the Weill Cornell (February 2020).
 
 + Join me to congratulate Jelena for joining Genentech as a research scientist. You will be missed (November 2019)!
 
@@ -18,7 +18,7 @@ permalink: /News.html
 
 + Congratulations to [Yeqiao Zhou](https://twitter.com/YeqiaoZhou) for passed her prelim with the highest score possible (May 2019).
 
-+ Thank's Rutgers University’s Molecular and Biochemistry Society Seminar Series for hosting Babak (April 2019).
++ Thank's to Rutgers University’s Molecular and Biochemistry Society Seminar Series for hosting Babak (April 2019).
 
 + Babak presented at the [Keystone 3D Genome](https://goo.gl/WJSQoX) meeting, March 2019, at Banff.
 
