@@ -27,9 +27,9 @@ permalink: /Publications.html
 
 + Pajcini KV, Xu L, Shao L, _Petrovic J_, Palasiewicz K, Ohtani Y, Bailis W, Lee C, Wertheim GB, Mani R, Muthusamy N, Li Y, Meijerink JPP, Blacklow SC, _Faryabi RB_, Cherry S, Pear WS, ''[MAFB Enhances Oncogenic Notch Signaling in T Cell Acute Lymphoblastic Leukemia](https://doi.org/10.1126/scisignal.aam6846)'', _Science Signaling_, November 2017. 
 
-+ Ryan RJH^, Petrovic J^, Rausch DM, Zhou Y, Lareau C, Kluk MJ, Christie AL, Lee W, Guo B, Donohue LKH, Gillespie S, Nardi V, Hochberg EP, Blacklow SC, Weinstock DM, **Faryabi RB**, Bernstein BE, Aster JC, Pear WS, ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://doi.org/10.1016/j.celrep.2017.09.066)'', _Cell Reports_, October 2017. ^co-first author.
++ Ryan RJH^, Petrovic J^, Rausch DM, Zhou Y, Lareau C, Kluk MJ, Christie AL, Lee W, Guo B, Donohue LKH, Gillespie S, Nardi V, Hochberg EP, Blacklow SC, Weinstock DM, _Faryabi RB_, Bernstein BE, Aster JC, Pear WS, ''[A B Cell Regulome Links Notch to Downstream Oncogenic Pathways in Small B Cell Lymphomas](https://doi.org/10.1016/j.celrep.2017.09.066)'', _Cell Reports_, October 2017. ^co-first author.
 
-+ Rolland DC, Basrur V, Jeon Y-K, McNeil-Schwalm C, Fermin D, Conlon K, Zhou Y, Ng SY, Tsou C-C, Brown NA, Thomas DG, Bailey NG, Omenn GS, Nesvizhskii AI, Root DE, Weinstock DM, _Faryabi RB_, Lim MS, Elenitoba-Johnson KSJ, ''[Functional Proteogenomics Reveals Biomarkers and Therapeutic Targets in Lymphomas](https://doi.org/10.1073/pnas.1701263114)'', __PNAS__, May 2017.
++ Rolland DC, Basrur V, Jeon Y-K, McNeil-Schwalm C, Fermin D, Conlon K, Zhou Y, Ng SY, Tsou C-C, Brown NA, Thomas DG, Bailey NG, Omenn GS, Nesvizhskii AI, Root DE, Weinstock DM, _Faryabi RB_, Lim MS, Elenitoba-Johnson KSJ, ''[Functional Proteogenomics Reveals Biomarkers and Therapeutic Targets in Lymphomas](https://doi.org/10.1073/pnas.1701263114)'', _PNAS_, May 2017.
 
 + Stein SJ, Mack EA, Rome KS, Pajcini KV, Ohtani T, Xu L, Li Y, Meijerink JP, _Faryabi RB_, Pear WS, ''[Trib2 Suppresses Tumor Initiation in Notch-Driven T-ALL](https://doi.org/10.1371/journal.pone.0155408)'', _PLoS ONE_, May 2016.
 
