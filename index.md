@@ -8,7 +8,7 @@ permalink: /index.html
 
 Our lab focuses on understanding the mechanisms of epigenetic desregulation in cancer. We are particularly interested in understanding how signaling-dependent transcription factors such as Notch reorganize cancer epigenome. This mechanistic knowledge constitutes an important step toward leveraging selective disruption of epigenetic homeostasis as targeted therapeutic options. 
 
-In our studies, we benefit from genome-wide assays elucidating the imapact of transcription factors on chromatin folding and activity. We also use single-cell measurements to study how heterogeneity of chromatin activity (scATAC-seq) and folding (3D DNA FISH) impacts cancer cell response to targeted therapies.
+In our studies, we benefit from genome-wide assays elucidating the impact of transcription factors on chromatin folding and activity. We also use single-cell measurements to study how heterogeneity of chromatin activity (scATAC-seq) and folding (3D DNA FISH) impacts cancer cell response to targeted therapies.
 
 In summary, we focus on the intersection of chromatin and cancer biology and blend in state-of-the-arts technologies to systematically elucidate: 
 
