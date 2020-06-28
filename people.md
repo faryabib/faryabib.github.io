@@ -10,11 +10,11 @@ permalink: /people.html
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
 
-* Mark Boltengagen joined the lab from the Humboldt University of Berlin, Germany.
-
-* Ke Fang is joining the lab after his PhD training at the Shanghai Jiao Tong University, China.
+* Bo He join the lab after his training at the City of Hope National Medical Center in cancer epigenetics. Bo is interested in understanding mechanisms of locus specific chromatin folding in Notch-mutated cancers. 
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
+
+* Brent Perlman is a student at Vagelos Program in Life Sciences & Management. He works on analysis and visualization of chromatin conformation data sets.
 
 **Alumni**
 
@@ -23,6 +23,8 @@ permalink: /people.html
 * Rupa Khanal is a rotation PhD studnet from the Department of Biology.
 
 * Benjamin Kahn: Former: Undergraduate independent study - Current: MD/PhD student at Penn.
+
+* Mark Boltengagen: Former: Postdoc - Current: Researcher at Dresden University of Technology.
 
 * Parisa Samareh: Former: Rotation student, GCB
 
