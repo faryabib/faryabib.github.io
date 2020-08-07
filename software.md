@@ -5,7 +5,7 @@ permalink: /Software.html
 ---
 **[TooManyPeaks:](https://github.com/faryabib/too-many-cells)**
 
-![TooManyPeaks](assets/dendrogram.png){:height="290px" width="300px"}
+![TooManyPeaks](assets/TooManyPeaks.png){:height="290px" width="300px"}
 
 [TooManyPeaks:](https://github.com/faryabib/too-many-cells) New addition to our graph-based single-cell analysis environment that enables cell type prediction and visualization from single-cell ATAC-seq data. 
 
