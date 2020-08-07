@@ -3,12 +3,17 @@ layout: page
 title: Software 
 permalink: /Software.html
 ---
+**[TooManyPeaks:](https://github.com/faryabib/too-many-cells)**
+
+![TooManyPeaks](assets/dendrogram.png){:height="290px" width="300px"}
+
+[TooManyPeaks:](https://github.com/faryabib/too-many-cells) New addition to our graph-based single-cell analysis environment that enables cell type prediction and visualization from single-cell ATAC-seq data. 
 
 **[TooManyCells:](https://github.com/faryabib/too-many-cells)**
 
 ![TooManyCells](assets/dendrogram.png){:height="290px" width="300px"}
 
-[TooManyCells:](https://github.com/faryabib/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle cell measurements clustering. More details about TooManyCells at [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5). 
+[TooManyCells:](https://github.com/faryabib/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle-cell RNA-seq clustering. More details about TooManyCells at [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5). 
 
 **[HeatITup:](https://github.com/faryabib/HeatITup)**
 
