@@ -16,7 +16,7 @@ permalink: /people.html
 
 * Brent Perlman is a student at Vagelos Program in Life Sciences & Management. He works on analysis and visualization of chromatin conformation data sets.
 
-* Jingru Zhao is a Cell and Molecular Biology PhD studnet. She works on optical mapping of genome folding for her rotation project. 
+* Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding for her rotation project. 
 
 **Alumni**
 
