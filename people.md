@@ -27,7 +27,7 @@ permalink: /people.html
 
 * Jelena Petrovic (joint with Warren Pear): Postdoctoral fellow - Current: Research Scientist at Genentech 
 
-* Rupa Khanal: Rotation studnet, Biology 
+* Rupa Khanal: Rotation student, Biology 
 
 * Benjamin Kahn: Undergraduate independent study - Current: MD/PhD student at UPenn
 
