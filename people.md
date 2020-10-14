@@ -12,7 +12,7 @@ permalink: /people.html
 
 * Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding in breast cancer. 
 
-* [Aanchal Mongai](https://sites.google.com/iiitd.ac.in/aanchalmongia) joined the lab after her doctoral training at the India Institute of Technology - Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
+* [Aanchal Mongai](https://sites.google.com/iiitd.ac.in/aanchalmongia) joined the lab after her doctoral training at the IIIT Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
 
 * Bo He joined the lab after his training at the City of Hope National Medical Center in cancer epigenetics. Bo is interested in understanding mechanisms of locus specific chromatin folding in Notch-mutated cancers. 
 
