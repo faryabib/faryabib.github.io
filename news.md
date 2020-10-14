@@ -3,6 +3,10 @@ layout: page
 title: News
 permalink: /News.html
 ---
++ We welcome Aanchal Mongia, who is joining us after her PhD study at IIT Delhi (October 2020).
+
++ Jingru Zhao joined the lab as a PhD student. Welcome Jingru! (November 2020). 
+
 + We are excited to have Jingru Zhao in the lab for her rotation (August 2020). 
 
 + We welcome Bo He to the lab (July 2020).
