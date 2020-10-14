@@ -14,7 +14,7 @@ permalink: /people.html
 
 * [Aanchal Mongai](https://sites.google.com/iiitd.ac.in/aanchalmongia) joined the lab after her doctoral training at the India Institute of Technology - Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
 
-* Bo He join the lab after his training at the City of Hope National Medical Center in cancer epigenetics. Bo is interested in understanding mechanisms of locus specific chromatin folding in Notch-mutated cancers. 
+* Bo He joined the lab after his training at the City of Hope National Medical Center in cancer epigenetics. Bo is interested in understanding mechanisms of locus specific chromatin folding in Notch-mutated cancers. 
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
