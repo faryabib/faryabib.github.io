@@ -10,37 +10,42 @@ permalink: /people.html
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
 
+* Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding in breast cancer. 
+
+* [Aanchal Mongai](https://sites.google.com/iiitd.ac.in/aanchalmongia) joined the lab after her doctoral training at the India Institute of Technology - Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
+
 * Bo He join the lab after his training at the City of Hope National Medical Center in cancer epigenetics. Bo is interested in understanding mechanisms of locus specific chromatin folding in Notch-mutated cancers. 
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
 * Brent Perlman is a student at Vagelos Program in Life Sciences & Management. He works on analysis and visualization of chromatin conformation data sets.
 
-* Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding for her rotation project. 
 
 **Alumni**
 
+* Jingru Zhao: Rotation student, GTV - Current: Faryabi Lab UPenn
+
 * Jelena Petrovic (joint with Warren Pear): Postdoctoral fellow - Current: Research Scientist at Genentech 
 
-* Rupa Khanal is a rotation PhD studnet from the Department of Biology.
+* Rupa Khanal: Rotation studnet, Biology 
 
-* Benjamin Kahn: Former: Undergraduate independent study - Current: MD/PhD student at Penn.
+* Benjamin Kahn: Undergraduate independent study - Current: MD/PhD student at UPenn
 
-* Mark Boltengagen: Former: Postdoc - Current: Researcher at Dresden University of Technology.
+* Mark Boltengagen: Postdoc - Current: Researcher at Dresden University of Technology
 
-* Parisa Samareh: Former: Rotation student, GCB
+* Parisa Samareh: Rotation student, GCB - Current: Berger Lab
 
-* Jose Liboy Lugo: Former: SUIP undergraduate student, University of Puerto Rico - Current: PhD student at UCSF
+* Jose Liboy Lugo: SUIP undergraduate student - Current: PhD student at UCSF
 
 * Drishty Vora: Former: MS student of Biotech - Current: UPenn Data Coordinator
 
-* Rohan Alur: Former: UPenn computer science, MS program - Current: Bridgewater Associates
+* Rohan Alur: UPenn computer science, MS program - Current: Bridgewater Associates
 
-* Yeqiao Zhou: Former: Post-bac - Current: UPENN, Genetics and Epigenetics PhD program
+* Yeqiao Zhou: Former: Post-bac - Current: Faryab Lab UPenn
 
-* Thomas Campbell: Rotation student, BMB
+* Thomas Campbell: Rotation student, BMB 
 
-* Tosin Ajiboye: Former: Laboratory Technician - Current: North Philadelphia Health System
+* Tosin Ajiboye: Lab Technician - Current: North Philadelphia Health System
 
 
 ----
