@@ -13,7 +13,9 @@ permalink: /Software.html
 
 ![TooManyCells](assets/dendrogram.png){:height="290px" width="300px"}
 
-[TooManyCells:](https://github.com/faryabib/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle-cell RNA-seq clustering. More details about TooManyCells at [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5). 
+[TooManyCells:](https://github.com/faryabib/too-many-cells) A suite of graph-based tools for efficient, global, and unbiased identification and visualization of signle-cell RNA-seq clustering. More details about TooManyCells at [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5).
+
+You can explore TooMayCells analysis of scRNA-seq data from pancreas of healthy and T1 diabetic individuals at  [our data portal](http://faryabi05.med.upenn.edu:8050).
 
 **[HeatITup:](https://github.com/faryabib/HeatITup)**
 
