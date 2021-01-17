@@ -18,7 +18,7 @@ permalink: /people.html
 
 * David Wilkes joined the lab after his undergraduate studies in biology in Penn State Abingron. In addition to managing the lab, David is pursuing his Master's degree in cell biology at the Jefferson University.
 
-* Brent Perlman is a student at Vagelos Program in Life Sciences & Management. He works on analysis and visualization of chromatin conformation data sets.
+* Brent Perlman is a student at Vagelos Program in Life Sciences & Management. Brent works on analysis and visualization of chromatin conformation data sets.
 
 
 **Alumni**
