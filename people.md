@@ -16,9 +16,9 @@ permalink: /people.html
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
-* David Wilkes joined the lab after his undergraduate studies in biology in Penn State Abingron. In addition to managing the lab, David is pursuing his Master's degree in cell biology at the Jefferson University.
+* David Wilkes joined the lab after his undergraduate studies in biology at Penn State Abingron. In addition to managing the lab, David is pursuing his Master's degree in cell biology at the Jefferson University.
 
-* Brent Perlman is a student at Vagelos Program in Life Sciences & Management. Brent works on analysis and visualization of chromatin conformation data sets.
+* Brent Perlman is UPenn Vagelos Scholar undergraduate. Brent studies impact of transcription factors on loop extrusion. 
 
 
 **Alumni**
