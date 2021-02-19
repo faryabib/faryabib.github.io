@@ -6,7 +6,7 @@ permalink: /research.html
 
 Cancer is typically considered a genetic disease. However, recent progress in our understanding of epigenetic aberrations in cancer has challenged this view. Overarching goal of our lab is to understand epigenetic mechanisms of transcriptional addiction in cancer and exploit this information to advance cancer therapeutics. 
 
-To pursue this objective, we use cutting-edge chromatin conformation capture, high-content Oligopaint DNA FISH, single-cell epigenomics, functional genomics, and combine it with our expertise in computational sciences to systematically explore: i) how epigenetic control of gene expression is disrupted in cancer, ii) why transcriptional addiction can develop, and iii) how heterogeneity and plasticity of transcriptional dependencies enable drug resistance. 
+To pursue this objective, we use cutting-edge chromatin conformation capture, high-content Oligopaint DNA FISH, single-cell epigenomics, functional genomics, and combine these technologies with our expertise in computational sciences to systematically explore: i) how epigenetic control of gene expression is disrupted in cancer, ii) why transcriptional addiction can develop, and iii) how heterogeneity and plasticity of transcriptional dependencies enable drug resistance. 
 
 ----
 
