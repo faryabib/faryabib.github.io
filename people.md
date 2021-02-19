@@ -41,7 +41,7 @@ permalink: /people.html
 
 * Rohan Alur: UPenn computer science, MS program - Current: Bridgewater Associates
 
-* Yeqiao Zhou: Former: Post-bac - Current: Faryab Lab UPenn
+* Yeqiao Zhou: Former: Post-bac - Current: Faryabi Lab UPenn
 
 * Thomas Campbell: Rotation student, BMB 
 
