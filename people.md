@@ -12,7 +12,7 @@ permalink: /people.html
 
 * Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding in breast cancer. 
 
-* [Aanchal Mongai](https://sites.google.com/iiitd.ac.in/aanchalmongia) joined the lab after her doctoral training at the IIIT Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
+* [Aanchal Mongia](https://github.com/aanchalMongia) joined the lab after her doctoral training at the IIIT Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
