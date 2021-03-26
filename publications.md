@@ -11,6 +11,10 @@ permalink: /Publications.html
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Original Articles as a PI at the University of Pennsylvania:</span><strong>
 
++ Verma P, _Zhou Y_, Cao Z, Deraska PV, Deb M, Arai E, Li W, Shao Y, Puentes L, Li Y, Patankar S, Mach RH, _Faryabi RB_, Shi J, Greenberg RA, ''ALC1 links chromatin accessibility to PARP inhibitor response in homologous recombination-deficient cells'', _Nature Cell Biology_, February 2021. 
+
++ _Kahn BM_, Lucas A, _Alur GR_, Wengyn MD, Schwartz GW, Li J, Sun K, Maurer HC, Olive KP, _RB Faryabi_^, Stanger BZ^, ''[The vascular landscape of human cancer](https://www.jci.org/articles/view/136655)'', _Jornal of Clinical Investigation_, December 2020. ^co-corresponding author.
+
 + _Schwartz GW_, _Petrovic J_, Fasolino M, Zhou Y, Xu L, Pear WS, Vahedi G, _Faryabi RB_, ''[TooManyCells Identifies and Visualizes Relationships of Single-cell Clades](https://doi.org/10.1038/s41592-020-0748-5)'', _Nature Methods_, March 2020.
 
 + Rome KS, Stein SJ, Kurachi M, Petrovic J, _Schwartz GW_, Mack EA, Uljon S, Ms. Wu WW, DeHart AG, Xu L, Gimotty PA, Blacklow SC, _Faryabi RB_, Wherry EJ, Jordan MS, Pear WS, ''[Trib1 Regulates T Cell Differentiation During Chronic Infection by Restraining the Effector Program]()''. _Journal of Experimental Medicine_, March 2020.
