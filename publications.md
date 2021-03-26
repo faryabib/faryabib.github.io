@@ -11,7 +11,7 @@ permalink: /Publications.html
 ----
 <strong><span style="font-size: 1.5em; font-weight: bold; color: #0000cc; background-color: #ffffff"> Original Articles as a PI at the University of Pennsylvania:</span><strong>
 
-+ Verma P, _Zhou Y_, Cao Z, Deraska PV, Deb M, Arai E, Li W, Shao Y, Puentes L, Li Y, Patankar S, Mach RH, _Faryabi RB_, Shi J, Greenberg RA, ''ALC1 links chromatin accessibility to PARP inhibitor response in homologous recombination-deficient cells'', _Nature Cell Biology_, February 2021. 
++ Verma P, _Zhou Y_, Cao Z, Deraska PV, Deb M, Arai E, Li W, Shao Y, Puentes L, Li Y, Patankar S, Mach RH, _Faryabi RB_, Shi J, Greenberg RA, ''[ALC1 links chromatin accessibility to PARP inhibitor response in homologous recombination-deficient cells](https://www.nature.com/articles/s41556-020-00624-3)'', _Nature Cell Biology_, February 2021. 
 
 + _Kahn BM_, Lucas A, _Alur GR_, Wengyn MD, _Schwartz GW_, Li J, Sun K, Maurer HC, Olive KP, _RB Faryabi_^, Stanger BZ^, ''[The vascular landscape of human cancer](https://www.jci.org/articles/view/136655)'', _Jornal of Clinical Investigation_, December 2020. ^co-corresponding author.
 
