@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /News.html
 ---
-+ Our study defining pan-cancer vascularization predictors is now online at the [Jornal of Clinical Investigation] (https://www.jci.org/articles/view/136655). Congradulations to Ben, Gregory and our collaborators at the Stanger Lab (February 2020). 
++ Our study defining pan-cancer vascularization predictors is now online at the [Jornal of Clinical Investigation](https://www.jci.org/articles/view/136655). Congradulations to Ben, Gregory and our collaborators at the Stanger Lab (February 2020). 
 
 + We welcome Aanchal Mongia, who is joining us after her PhD study at IIIT Delhi (October 2020).
 
