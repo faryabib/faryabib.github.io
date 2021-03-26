@@ -3,13 +3,13 @@ layout: page
 title: News
 permalink: /News.html
 ---
++ Our study defining pan-cancer vascularization predictors is now online at the [Jornal of Clinical Investigation] (https://www.jci.org/articles/view/136655). Congradulations to Ben, Gregory and our collaborators at the Stanger Lab (February 2020). 
+
 + We welcome Aanchal Mongia, who is joining us after her PhD study at IIIT Delhi (October 2020).
 
 + Jingru Zhao joined the lab as a PhD student. Welcome Jingru! (November 2020). 
 
 + We are excited to have Jingru Zhao in the lab for her rotation (August 2020). 
-
-+ We welcome Bo He to the lab (July 2020).
 
 + Congratulations to Gregory and the rest of the lab for their recent paper published in [Nature Methods](https://doi.org/10.1038/s41592-020-0748-5) (March 2020).
 
