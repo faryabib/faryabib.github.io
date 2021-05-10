@@ -3,7 +3,9 @@ layout: page
 title: News
 permalink: /News.html
 ---
-+ Our study defining pan-cancer vascularization predictors is now online at the [Jornal of Clinical Investigation](https://www.jci.org/articles/view/136655). Congradulations to Ben, Gregory and our collaborators at the Stanger Lab (February 2020). 
++ Our postdoctoral trainee, Gregory Schwartz, is going to join the faculty of the University of Toronto and Princess Margaret Cancer Center! Congratulations Gregory! You made us very proud (April 2021)!
+
++ Our study defining pan-cancer vascularization predictors is now online at the [Jornal of Clinical Investigation](https://www.jci.org/articles/view/136655). Congradulations to Ben, Gregory and our collaborators at the Stanger Lab (February 2021). 
 
 + We welcome Aanchal Mongia, who is joining us after her PhD study at IIIT Delhi (October 2020).
 
