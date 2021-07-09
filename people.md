@@ -10,13 +10,13 @@ permalink: /people.html
 
 * [Gregory Schwartz](https://github.com/GregorySchwartz) joined the lab after his doctoral training at the Drexel University. Gregory interests lies in developing computational methods to integrate and interrogate high-dimensional experimental data sets using graph theory and machine learning. Dr. Schwartz research has been support by NIH T32 Immunobiology of Normal and Neoplastic Training Grant. 
 
-* Jingru Zhao is a Cell and Molecular Biology PhD student. She works on optical mapping of genome folding in breast cancer. 
+* [Jingru Zhao](https://twitter.com/JingruZhao4) is a Cell and Molecular Biology PhD candidate. She works on optical mapping of genome folding in breast cancer. 
 
 * [Aanchal Mongia](https://github.com/aanchalMongia) joined the lab after her doctoral training at the IIIT Delhi. Aanchal develops machine learning algorithms for the analysis of spatial genomics data.
 
 * Ashkan Bigledi joined the lab as a PhD student after his training in bioinformatics at Harvard. Ashakan is specialized in developing clinical sequencing workflows and researches pathogenic mutation prioritization.
 
-* David Wilkes joined the lab after his undergraduate studies in biology at Penn State Abingron. In addition to managing the lab, David is pursuing his Master's degree in cell biology at the Jefferson University.
+* Emily Ferrari manages the lab and studies role of long non-coding RNAs in breast cancer. Emily joined us after studying Lamb-Shaffer Syndrome at Lefebvre Lab at CHOP. Emily received a B.A. in Biology from Swarthmore College in 2019, where she conducted research on long non-coding RNAs in human cells and their role in cancer progression.
 
 * Brent Perlman is UPenn Vagelos Scholar undergraduate. Brent studies impact of transcription factors on loop extrusion. 
 
