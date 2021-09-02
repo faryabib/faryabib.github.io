@@ -4,4 +4,4 @@ title: Faryabi Lab @ UPENN
 permalink: /index.html
 ---
 
-**Check new [Faryabi Lab website](https://faryabiLab.com)**
+**Check new [Faryabi Lab website](https://faryabiLab.com) at https://faryabiLab.com**
