@@ -1,8 +1,8 @@
----
-layout: page
-title: Faryabi Lab @ UPENN 
-permalink: /index.html
----
+#---
+#layout: page
+#title: Faryabi Lab @ UPENN 
+#permalink: /index.html
+#---
 
 ![enhancer in cancer](assets/MYC_FISH_EP.jpg){:height="200%" width="200%"} 
 
